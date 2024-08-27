@@ -48,5 +48,6 @@ function submitForm() {
 
   document.getElementById("copyButton").addEventListener("click", function() {
     navigator.clipboard.writeText(`${siteLink}${queryString}`);
+    document.getElementById("copyButton").style = "background-color: grey;";
   });
 }
