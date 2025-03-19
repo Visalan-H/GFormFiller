@@ -93,5 +93,6 @@ function submitForm() {
   document.getElementById("copyButton").addEventListener("click", function () {
     navigator.clipboard.writeText(`${siteLink}${queryString}`);
     this.style.backgroundColor = "grey";
+    alert("Copied!")
   });
 }
