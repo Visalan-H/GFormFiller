@@ -52,5 +52,11 @@
         "startTime":"19:00",
         "subject":"OS",
         "sessionId":"B29"
+    },
+    {
+        "date":"15-04-2025",
+        "startTime":"19:00",
+        "subject":"CN",
+        "sessionId":"B30"
     }
 ]
