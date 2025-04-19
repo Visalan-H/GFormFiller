@@ -1,17 +1,5 @@
 [
     {
-        "date":"27-03-2025",
-        "startTime":"19:00",
-        "subject":"OS",
-        "sessionId":"B22"
-    },
-    {
-        "date":"13-04-2025",
-        "startTime":"10:00",
-        "subject":"DSA",
-        "sessionId":"B28"
-    },
-    {
         "date":"14-04-2025",
         "startTime":"19:00",
         "subject":"OS",
@@ -24,9 +12,9 @@
         "sessionId":"B30"
     },
     {
-        "date":"16-04-2025",
-        "startTime":"19:00",
-        "subject":"OS",
-        "sessionId":"B31"
+        "date":"19-04-2025",
+        "startTime":"16:00",
+        "subject":"DSA",
+        "sessionId":"B32"
     }
 ]
