@@ -40,5 +40,11 @@
         "startTime":"12:00",
         "subject":"DBMS",
         "sessionId":"B24R"
+    },
+    {
+        "date":"27-04-2025",
+        "startTime":"10:00",
+        "subject":"OOPS",
+        "sessionId":"B35"
     }
 ]
