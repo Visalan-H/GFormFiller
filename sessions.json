@@ -46,5 +46,17 @@
         "startTime":"10:00",
         "subject":"OOPS",
         "sessionId":"B35"
+    },
+    {
+        "date":"28-04-2025",
+        "startTime":"19:00",
+        "subject":"DBMS",
+        "sessionId":"B35"
+    },
+    {
+        "date":"29-04-2025",
+        "startTime":"19:00",
+        "subject":"OS",
+        "sessionId":"B25R"
     }
 ]
