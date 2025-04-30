@@ -58,5 +58,11 @@
         "startTime":"19:00",
         "subject":"OS",
         "sessionId":"B25R"
+    },
+    {
+        "date":"30-04-2025",
+        "startTime":"19:00",
+        "subject":"DBMS",
+        "sessionId":"B35R"
     }
 ]
