@@ -124,5 +124,11 @@
         "startTime":"19:00",
         "subject":"OS",
         "sessionId":"B39R"
+    },
+    {
+        "date":"21-05-2025",
+        "startTime":"18:30",
+        "subject":"DBMS",
+        "sessionId":"B47"
     }
 ]
