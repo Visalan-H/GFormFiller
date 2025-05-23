@@ -130,5 +130,11 @@
         "startTime":"18:30",
         "subject":"DBMS",
         "sessionId":"B47"
+    },
+    {
+        "date":"23-05-2025",
+        "startTime":"19:00",
+        "subject":"DSA",
+        "sessionId":"B48"
     }
 ]
