@@ -136,5 +136,11 @@
         "startTime":"19:00",
         "subject":"DSA",
         "sessionId":"B48"
+    },
+    {
+        "date":"24-05-2025",
+        "startTime":"16:30",
+        "subject":"DSA",
+        "sessionId":"B49"
     }
 ]
